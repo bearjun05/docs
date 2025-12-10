@@ -83,8 +83,8 @@
     }
   },
   "logo": {
-    "light": "/logo/snoio_logo_light.svg",
-    "dark": "/logo/snoio_logo_dark.svg"
+    "light": "/logo/snoio_logo_light.jpg",
+    "dark": "/logo/snoio_logo_dark.jpg"
   },
   "navbar": {
     "links": [
