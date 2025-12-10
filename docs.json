@@ -40,7 +40,8 @@
           {
             "group": "Test",
             "pages": [
-              "test/README"
+              "test/README",
+              "test/tesst"
             ]
           }
         ]
