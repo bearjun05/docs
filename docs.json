@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/snoio_logo_light.png",
-    "dark": "/logo/snoio_logo_dark.png",
+    "light": "/logo/snoio_logo_docs_light.png",
+    "dark": "/logo/snoio_logo_docs_dark.png",
     "height": 60
   },
   "navbar": {
