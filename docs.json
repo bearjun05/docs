@@ -39,7 +39,9 @@
           },
           {
             "group": "Test",
-            "pages": []
+            "pages": [
+              "test/REDAME"
+            ]
           }
         ]
       },
